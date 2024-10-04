@@ -2,4 +2,3 @@
 Веб-интерфейс сделан на Dash-e.
 ![image](https://github.com/user-attachments/assets/1e77811c-9dff-41aa-9e19-68dd41e9a283)
 ![image](https://github.com/user-attachments/assets/0d4095c7-151f-4033-b649-ba9b669e3287)
-![image](https://github.com/user-attachments/assets/1a4aeb2b-d0bc-468d-9638-73a78a282cc8)
